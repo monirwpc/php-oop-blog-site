@@ -1,0 +1,2 @@
+user: admincp
+pass: admincp
